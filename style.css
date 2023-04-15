@@ -1,0 +1,155 @@
+.top,.down,.footer{
+    font-family: sans-serif;
+    color: white;
+    font-family: 'Space Grotesk', sans-serif;
+}
+h4{
+    font-family: 'Space Grotesk', sans-serif;
+    color: white;
+    font-weight:bolder;
+
+    
+
+}
+body{
+    background-color: #0f0f0f;
+    overflow-x: hidden;
+    
+    
+}
+.text,.text1{
+
+clear: both;
+margin-left: 100px;
+font-size: 30px;
+
+
+}
+
+.footer{
+    font-weight:lighter;
+    font-size: 17px;
+    color:white;
+
+
+}
+a{
+    color:white;
+}
+a:hover{
+    color:orange;
+}
+.hr1{
+    width: auto;
+}
+.hobby{
+    position:relative;left:70px ;
+    text-decoration: underline;
+    font-family: sans-serif;
+    color: white;
+    font-family: 'Space Grotesk', sans-serif;
+
+}
+
+.hobbies{
+    position: relative;bottom: 30px;
+    font-family: 'Space Grotesk';
+font-style: normal;
+font-weight:lighter;
+font-size: 23.7523px;
+line-height: 30px;
+
+color: #FFFFFF;
+}
+.name:hover,:link{
+    color:orange;
+    text-decoration: none;
+    
+    
+}
+.img1{
+    transition: 1s ease;
+    }
+    
+    .img1:hover{
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+    transition: 1s ease;
+    }
+    .img1{
+        float:right;
+        height:400px;
+        width:525px;
+        max-height: 600px;
+        max-width: 700px;
+        margin-right: 120px;
+        position:relative;
+        bottom:20px;
+        right:28px;
+      }
+      .nav{
+        box-sizing: border-box;
+        position: absolute;
+        width: 2816px;
+        height: 80px;
+        left: 0px;
+        top: 0px;
+        
+
+background: #282828;
+
+      }
+      .name{
+        position: absolute;
+width: 300px;
+height: 61px;
+left: 112px;
+top: 11px;
+
+font-family: 'Space Grotesk';
+font-style: normal;
+font-weight: 700;
+font-size: 20.1334px;
+line-height: 61px;
+
+color: #FFFFFF;
+      }
+
+.about{
+position: relative;
+left: 1000px;
+bottom:55px;
+font-family: 'Space Grotesk';
+font-style: normal;
+font-weight: 500;
+font-size: 20.1334px;
+line-height: 56px;
+text-decoration: underline;
+text-underline-offset:calc(30px);
+
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.about:hover{
+    color:gray;
+    text-decoration-color: white;
+}
+.yo{
+    color:orange;
+
+}
+.hello:hover{
+    color:orange;
+}
+.mc,.tech{
+    padding-left: 100px;
+    
+}
+.hrmc,.hrtech{
+    margin-right: 720px;
+    margin-left: 50px;
+}
+
