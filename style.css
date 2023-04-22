@@ -236,6 +236,7 @@ z-index: -1;
         position: relative;
         top:430px;
         left:0px;
+        margin-left: 10px;
     }
     .nav{
         width:600px;
@@ -275,6 +276,20 @@ z-index: -1;
     top:515px;
     font-size: 20px;
 }
+}
+@media(max-width:430px){
+    .fa-instagram {
+        background: #cd486b;
+        color: white;
+        position: absolute;
+        left:150px;
+      }
+      .fa-twitter {
+        background: #55ACEE;
+        color: white;
+        position: absolute;
+        left:240px;
+      }  
 }
 @media(max-width:405px){
     .top{
