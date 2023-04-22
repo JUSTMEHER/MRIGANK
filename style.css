@@ -290,13 +290,13 @@ z-index: -1;
         background: #cd486b;
         color: white;
         position: absolute;
-        left:200px;
+        left:120px;
       }
       .fa-twitter {
         background: #55ACEE;
         color: white;
         position: absolute;
-        left:330px;
+        left:200px;
       }
 }
 @media(max-width:390px){
