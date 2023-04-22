@@ -305,13 +305,13 @@ z-index: -1;
         background: #cd486b;
         color: white;
         position: absolute;
-        left:120px;
+        left:160px;
       }
       .fa-twitter {
         background: #55ACEE;
         color: white;
         position: absolute;
-        left:200px;
+        left:240px;
       }
 }
 @media(max-width:390px){
@@ -335,6 +335,18 @@ z-index: -1;
     .nav{
         width:365px;
     }
+    .fa-instagram {
+        background: #cd486b;
+        color: white;
+        position: absolute;
+        left:130px;
+      }
+      .fa-twitter {
+        background: #55ACEE;
+        color: white;
+        position: absolute;
+        left:210px;
+      }
     
 }
 @media(max-width:335px){
